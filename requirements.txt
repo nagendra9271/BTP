@@ -1,0 +1,20 @@
+numpy
+scikit-learn
+pillow
+pandas
+tqdm
+
+torch
+torchvision
+accelerate
+transformers>=4.49.0
+
+spacy
+en-core-web-trf
+# Alternative lighter model:
+# en-core-web-lg
+
+qwen-vl-utils
+bitsandbytes
+
+git+https://github.com/openai/CLIP.git
