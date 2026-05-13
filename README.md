@@ -1,6 +1,6 @@
 # Generating and Evaluating Multimodal Misinformation Using Synthetic Misinformers on the MOCHEG Dataset
 
-**BTP Project — Kandula Nagendra (22CS01026) | IIT Bhubaneswar | Supervisor: Dr. Shreya Ghosh**
+
 
 ---
 
